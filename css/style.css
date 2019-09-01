@@ -58,6 +58,14 @@ Author Name: bdCoder
     02. General CSS 
 =====*****=====*****=====*****=====*****/
 
+.gallery{
+  background: #556270;
+  padding: 80px 2px 5px 2px;
+}
+.gallery-col {
+  margin-bottom: 50px;
+}
+
 body {
   background: #ffffff;
   font-family: "PT Sans", sans-serif;

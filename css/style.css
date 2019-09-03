@@ -58,12 +58,37 @@ Author Name: bdCoder
     02. General CSS 
 =====*****=====*****=====*****=====*****/
 
+
+.btn1 {
+  background-color: red;
+  border: none;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.btn1 h2{
+  color: white;
+  text-transform: none;
+}
+.btn1:hover {
+  background-color: #00c6ff;
+  color: white;
+}
+#btn1 h2{
+  color: white;
+  text-transform:none;
+}
+
+
 .gallery{
   background: #556270;
   padding: 80px 2px 5px 2px;
 }
 .gallery-col {
-  
+
   margin-bottom: 50px;
 }
 

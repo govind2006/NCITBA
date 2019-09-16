@@ -130,6 +130,7 @@ Author Name: bdCoder
 .gallery img {
   width: 450px;
   height: 350px;
+  padding-bottom: 10px;
 }
 
 body {
@@ -778,8 +779,8 @@ img {
   transform: scale(0.9);
 }
 .speaker-box img {
-  width: 50%;
-  height: auto;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
 }
 .speaker-box .social {

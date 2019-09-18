@@ -840,12 +840,16 @@ img {
   border-radius: 5px;
 }
 .speaker-info h4 {
-  color: #ffffff;
+  color: white;
+  margin-bottom: 5px;
+}
+.speaker-info h5 {
+  color: white;
   margin-bottom: 5px;
 }
 .speaker-info span {
   text-transform: capitalize;
-  color: #999999;
+  color: white;
   font-size: 13px;
 }
 
@@ -1135,9 +1139,9 @@ img {
   text-align: center;
 }
 .sponsor-col a img {
-  width: 150px;
-  height: auto;
-  margin: 0 auto;
+  width: 200px;
+  height: 50px;
+  
 }
 
 /*--------------------------------

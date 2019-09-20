@@ -422,7 +422,8 @@
 	
 }
 .button6{
-	color: rgba(255,255,255,1);
+	color: #ffd194;
+	font-size: 27px;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	-o-transition: all 0.5s;
